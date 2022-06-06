@@ -9,4 +9,4 @@ Esses dias, participei de um processo seletivo, no qual não fui aprovado. Entre
 * [ReactJS](https://reactjs.org/)
 * [PostMan](https://www.postman.com/)
 
-Como não tenho foco nenhum no FrontEnd nesse projeto, acabei apenas criando uma página simples com uma lista ordenada, e cada item do array eu aplicava um novo item na minha lista. Para testar tudo, utilizei o POSTMAN, assim eu a tela do React de lado, e ia fazendo as requisições post para aplicar alguns dados e por meio do axios, com requisições get eu pegava em tempo real os posts que foram realizados.
+Como não tenho foco nenhum no FrontEnd nesse projeto, acabei apenas criando um html super básico com uma lista ordenada, e cada item do array eu aplicava um novo item na minha lista. Para testar tudo, utilizei o POSTMAN, assim com a tela do React de lado, eu fui realizando as requisições post para aplicar alguns dados e por meio do axios, com requisições get eu pegava em tempo real os posts que foram realizados.
